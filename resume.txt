@@ -1,0 +1,16 @@
+자격증, 대외활동, 사용기술
+- 자격증
+    - 운전면허 1종보통
+- 대외활동
+    - 2025년 RE:ALThon 해커톤 참가
+    - 2025년 GDGoC Solution Challenge 참가
+- 사용기술
+    - C, C++, Python, Svelte
+    - Docker, Nginx, Github Actions
+    - FastAPI, SvelteKit
+    
+기본사항(경력, 학력, 이름 나이 등)
+- 경력: 없음
+- 학력: 서강대학교 중국문화학과 & 컴퓨터공학과 학사 졸업 예정
+- 이름: 조준희
+- 나이: 25
