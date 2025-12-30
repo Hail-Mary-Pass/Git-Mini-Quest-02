@@ -1,0 +1,10 @@
+자격증, 대외활동, 사용기술
+- 자격증
+    - 운전면허 1종보통
+- 대외활동
+    - 2025년 RE:ALThon 해커톤 참가
+    - 2025년 GDGoC Solution Challenge 참가
+- 사용기술
+    - C, C++, Python, Svelte
+    - Docker, Nginx, Github Actions
+    - FastAPI, SvelteKit
